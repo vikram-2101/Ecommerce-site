@@ -22,7 +22,7 @@ A responsive, multi-page e-commerce website showcasing a wide variety of product
 
 Check out the live demo of the project:
 
-[Live Demo Link](#) _(Replace `#` with your actual live demo URL)_
+[Live Demo Link](https://cara-drab.vercel.app/)
 
 ## Project Structure
 
